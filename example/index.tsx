@@ -1,5 +1,5 @@
 import 'react-app-polyfill/ie11';
-import 'date-time-format-timezone'
+import 'date-time-format-timezone';
 
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
